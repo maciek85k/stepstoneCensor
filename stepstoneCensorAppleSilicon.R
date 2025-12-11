@@ -21,8 +21,8 @@
 # 0. Command‑line arguments
 # ------------------------------------------------------------
 
-input_path  <- "~/Documents/wigeo-inarbeit/Stepstone/test/KI_Klassifizierer_DK/Stepstone_Combined.json"
-output_path <- "~/Documents/wigeo-inarbeit/Stepstone/test/KI_Klassifizierer_DK/stepstone_cen.json"
+input_path  <- "Stepstone_Combined.json"
+output_path <- "stepstone_cen.json"
 
 # ------------------------------------------------------------
 # 1. Load R packages (quietly)
