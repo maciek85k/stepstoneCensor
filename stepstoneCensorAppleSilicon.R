@@ -1,6 +1,6 @@
 #!/usr/bin/env Rscript
 # ------------------------------------------------------------
-# stepstoneCensorAppleSiliconV2.R (macOS, Apple Silicon)
+# stepstoneCensorAppleSilicon.R (macOS, Apple Silicon)
 #
 # PURPOSE
 #   Censor (anonymise) the text in column `info_1`.
